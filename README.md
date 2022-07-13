@@ -1,7 +1,7 @@
 # Explore-places 
 ### A web application that enables users to upload places to visit along with descriptions and google map location.
 ### By using the user interface, users can edit and delete places. 
-\
+
 
 
 <h3 align="left">Languages and Tools:</h3>
